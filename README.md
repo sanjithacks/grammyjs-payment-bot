@@ -1,5 +1,7 @@
 # grammyjs-payment-bot
 
+Bot: https://t.me/NowPeAndCryBot
+
 https://github.com/grammyjs/examples/tree/main/deno-deploy
 
 Use card:
